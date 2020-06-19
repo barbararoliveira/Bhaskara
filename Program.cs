@@ -47,7 +47,8 @@ namespace Bhaskara
             Console.WriteLine($"x1 = {x1} e x2 = {x2}");
             Environment.Exit(-1);
            }       
-
+   
+           Console.WriteLine ("Pressione enter para finalizar.");
            Console.ReadKey();
         }
     }
